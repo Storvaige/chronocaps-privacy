@@ -38,7 +38,7 @@ We do **not** sell, rent, or trade your Facebook information with third parties.
 
 You may disconnect your Facebook account from our App at any time through the Facebook settings page or in our App’s account settings (if available). Upon disconnection, we will no longer receive any new data from Facebook.
 
-If you wish to delete your Chronocaps account and its data, please fill the form at : https://docs.google.com/forms/d/e/1FAIpQLSeo2t59Egs_DGFyCdORtKu4xKiZJBki6dCuylZNjB5ccVGktw/viewform?usp=sf_link
+If you wish to delete your Chronocaps account and its data, please fill the form at : [https://docs.google.com/forms/d/e/1FAIpQLSeo2t59Egs_DGFyCdORtKu4xKiZJBki6dCuylZNjB5ccVGktw/viewform?usp=sf_link](https://forms.gle/v3LBmWcQDH7ytuyT6)
 
 ## 5. Security of Your Information
 
